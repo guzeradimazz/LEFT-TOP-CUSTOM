@@ -1,0 +1,24 @@
+@import 'reset';
+
+@import 'components/header';
+@import 'components/hero';
+@import 'components/slider';
+@import 'components/product';
+@import 'components/special';
+@import 'components/footer';
+
+@import 'media';
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F4F1F2;
+}
+a{
+    text-decoration: none;
+    color: #202F1E;
+}
+.container{
+    margin-left: 8%;
+}

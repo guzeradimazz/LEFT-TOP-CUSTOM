@@ -1,0 +1,44 @@
+.hero{
+    background-image: url('/images/Фото.png');
+    background-repeat: no-repeat;
+    background-position: 101% 0%;
+    background-size: 43%;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.offer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+}
+.offer_text_main{
+    color: #202F1E;
+    line-height: 54,47px;
+    text-shadow: 7px 4px 8px #8faa8b;
+    padding-bottom: 2%;
+    font-size: 50px;
+}
+.offer_text_desc{
+    line-height: 23,15px;
+    font-size: 17px;
+}
+.offer_button{
+    -webkit-box-shadow: 6px -3px 39px 10px rgba(157, 67, 189, 0.27); 
+    -moz-box-shadow: 6px -3px 39px 10px rgba(157, 67, 189, 0.27); 
+    box-shadow: 6px -3px 39px 10px rgba(157, 67, 189, 0.27);
+    margin-top: 3%;
+    width: 190px;
+    height: 39px;
+    background-color: #9D43BD;
+    border-color: #9D43BD;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    border-radius: 20px;
+}
+.arrow{
+    display: flex;
+    justify-content: center;
+    padding-top: 17%;
+}

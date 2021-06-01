@@ -1,0 +1,88 @@
+.products{
+    display: flex;
+    flex-direction: column;
+    margin-top: 8%;
+
+}
+.product_list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    &_main{
+        font-size: 40px;
+    }
+    &_href{
+        margin-left: 7%;        
+        font-size: 20px;
+    }
+}
+.product_hoodies{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 8%;
+}
+.hoodie_paragraph{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin-bottom: 7%;
+    margin-top: 6%;
+    font-size: 18px;
+    line-height: 21px;
+}
+.product_hoodie{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 18px rgb(131, 131, 131);
+    width: 260px;
+}
+.hoodie_img{
+    width: 80%;
+}
+.hoodie_description{
+    margin-top: 5%;
+    width: 80%;
+    font-size: 13px;
+    line-height: 17px;
+}
+.hoodie_buying_items{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    width: 80%;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.hoodie_price{
+    color: #266B31;
+    font-size: 14px;
+    line-height: 19px;
+}
+.hoodie_more{
+    color: #9D43BD;
+    border-radius: 20px;
+    width: 45%;
+    border: 2px solid #9D43BD;
+    background-color: #F4F1F2;
+}
+.see_more_div{
+    display: flex;
+    justify-content: center;
+    margin-right: 8%;
+}
+.see_more{
+    color: #8a8a8a;
+    border: 1px solid #8a8a8a;
+    border-radius: 13px;
+    width: 15%;
+    height: 27px;
+    margin-top: 5%;
+    font-size: 17px;
+    background-color: #F4F1F2;
+}

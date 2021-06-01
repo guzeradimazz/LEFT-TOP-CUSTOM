@@ -1,0 +1,351 @@
+@media(max-width:1255px){
+    .phone_logo{
+        display: none;
+    }
+    .phone_tel{
+        display: none;
+    }
+    .offer_text_main{
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .offer_text_desc{
+        font-size: 13px;
+    }
+    .offer_button{
+        width: 170px;
+        font-size: 13px;
+    }
+    .slider{
+        margin-top: 8%;
+    }
+    .product_hoodie{
+        width: 220px;
+    }
+    .hoodie_paragraph{
+        font-size: 13px;
+    }
+    .bucket{
+        width: 26px;
+    }
+    .hoodie_buying_items{
+        margin-bottom: 5%;
+    }
+    .hoodie_description{
+        font-size: 10px;
+    }
+    .see_more{
+        font-size: 13px;
+    }
+    .special_offers_1{
+        width: 490px;
+    }
+    .special_offers_2{
+        width: 490px;
+    }
+    .special_offers_h2{
+        font-size: 20px;
+    }
+    .special_offers_text{
+        font-size: 15px;
+    }
+}
+@media(max-width: 965px){
+    .logo_svg{
+        height: 35px;
+    }
+    .logo_text_main{
+        font-size: 25px;
+    }
+    .logo_text_desc{
+        font-size: 10px;
+    }
+    .menu_item{
+        font-size: 10px;
+    }
+    .offer_text_main{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .offer_text_desc{
+        font-size: 9px;
+    }
+    .offer_button{
+        width: 140px;
+        font-size: 10px;
+    }
+    .slider-dots_item{
+        height: 5px;
+        width: 20px;
+    }
+    .slider{
+        margin-top: 8%;
+    }
+    .product_list_main{
+        font-size: 30px;
+    }
+    .product_list_href{
+        font-size: 13px;
+    }
+    .product_hoodie{
+        width: 180px;
+    }
+    .hoodie_paragraph{
+        font-size: 9px;
+    }
+    .bucket{
+        width: 18px;
+    }
+    .hoodie_price{
+        font-size: 9px;
+    }
+    .hoodie_more{
+        border: 1px solid #9D43BD;
+        font-size: 8px;
+    }
+    .hoodie_buying_items{
+        margin-bottom: 5%;
+    }
+    .hoodie_description{
+        font-size: 8px;
+    }
+    .see_more{
+        font-size: 13px;
+    }
+    .special_text{
+        font-size: 30px;
+    }
+    .special_offers_1{
+        width: 490px;
+    }
+    .special_offers_2{
+        width: 490px;
+    }
+    .special_offers_h2{
+        font-size: 15px;
+    }
+    .special_offers_text{
+        font-size: 10px;
+    }
+    .footer_logo{
+        height: 35px;
+    }
+    .footer_text_top{
+        font-size: 15px;
+    }
+    .footer_text_bottom{
+        font-size: 10px;
+    }
+    .footer_menu_item{
+        font-size: 10px;
+    }
+    .footer_arrow{
+        height: 15px;
+    }
+    .footer_items{
+        display: flex;
+        align-items: center;
+        margin-left: 8%;
+        height: 80px;
+    }
+    .inst{
+        height: 20px;
+    }
+    .footer_phone_ico{
+        height: 20px;
+    }
+    .footer_phone_number{
+        font-size: 10px;
+    }
+    .footer{
+        padding-top: 2%;
+        height: 120px;
+    }
+}
+@media(max-width:825px){
+    .menu{
+        margin-left: 0;
+    }
+    .logo_text_main{
+        width: 250px;
+    }
+    .logo_text_desc{
+        width: 250px;
+    }
+    .offer_button{
+        height: 20px;
+        width: 100px;
+    }
+    .product_hoodie{
+        width: 220px;
+    }
+    .product_hoodies{
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .hoodie1{
+        display: none;
+    }
+    .hoodie2{
+        display: none;
+    }
+    .see_more{
+        cursor: pointer;
+
+    }
+    .hoodie_paragraph{
+        font-size: 13px;
+    }
+    .hoodie_description{
+        font-size: 10px;
+    }
+}
+@media(max-width: 325px){
+    .logo_svg{
+        height: 20px;
+    }
+    .logo_text_main{
+        font-size: 8px;
+        width: 100px;
+    }
+    .logo_text_desc{
+        font-size: 5px;
+        width: 110px;
+    }
+    .menu_item{
+        font-size: 4px;
+        padding-left: 0px;
+    }
+    .header{
+        margin-top: 5%;
+    }
+    .offer_text_main{
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .offer_text_desc{
+        font-size: 6px;
+        width: 130px;
+    }
+    .offer_button{
+        width: 50px;
+        font-size: 4px;
+        height: 10px;
+    }
+    .slider .prev, .slider .next {
+        width: auto;
+        font-size: 10px;
+    }
+    .arrow{
+        display: none;
+    }
+    .slider-dots_item{
+        height: 4px;
+        width: 10px;
+    }
+    .slider{
+        margin-top: 8%;
+    }
+    .product_list_main{
+        font-size: 10px;
+    }
+    .product_list_href{
+        font-size: 6px;
+    }
+    .product_hoodie{
+        width: 100px;
+    }
+    .hoodie_paragraph{
+        font-size: 6px;
+    }
+    .bucket{
+        width: 10px;
+    }
+    .hoodie_price{
+        font-size: 5px;
+    }
+    .hoodie_more{
+        border: 0.5px solid #9D43BD;
+        font-size: 3px;
+    }
+    .hoodie_buying_items{
+        margin-bottom: 5%;
+    }
+    .hoodie_description{
+        font-size: 4px;
+        line-height: 7px;
+    }
+    .see_more{
+        font-size: 6px;
+        width: 60px;
+        height: 15px;
+    }
+    .special_text{
+        font-size: 14px;
+    }
+    .special_offers_1{
+        width: 490px;
+    }
+    .special_offers_2{
+        width: 490px;
+    }
+    .special_offers_h2{
+        font-size: 5px;
+    }
+    .special_offers_text{
+        font-size: 3px;
+    }
+    .footer_logo{
+        height: 20px;
+    }
+    .footer_text_top{
+        font-size: 6px;
+        width: 80px;
+    }
+    .footer_text_bottom{
+        font-size: 3px;
+    }
+    .footer_menu_item{
+        font-size: 4px;
+    }
+    .footer_arrow{
+        display: none;
+    }
+    .footer_items{
+        display: flex;
+        align-items: center;
+        height: 40px;
+    }
+    .inst{
+        height: 10px;
+        margin-left: 4%;
+    }
+    .footer_inst{
+        margin-left: 5%;
+    }
+    .footer_phone_ico{
+        height: 10px;
+    }
+    .footer_phone_number{
+        font-size: 4px;
+        width: 50px;
+    }
+    .footer{
+        padding-top: 1%;
+        height: 50px;
+    }
+    .footer_menu{
+        margin-left: 8%;
+        display: flex;
+        flex-direction: row;
+    }
+    .footer_phone{
+        width: 70px;
+    }
+    .slider{
+        margin-top: 1%;
+    }
+    .slider .item img{
+        height: 60vh;
+    }
+}
