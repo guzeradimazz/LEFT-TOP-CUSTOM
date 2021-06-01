@@ -133,7 +133,7 @@ ul {
 }
 
 .hero {
-  background-image: url("/images/Фото.png");
+  background-image: url("../images/Фото.png");
   background-repeat: no-repeat;
   background-position: 101% 0%;
   background-size: 43%;
@@ -501,13 +501,13 @@ ul {
 .special_offers_1 {
   text-align: right;
   width: 600px;
-  background-image: url("/images/Фото 1-2.png");
+  background-image: url("../images/Фото 1-2.png");
 }
 
 .special_offers_2 {
   text-align: right;
   width: 600px;
-  background-image: url("/images/Фото 2.png");
+  background-image: url("../images/Фото 2.png");
 }
 
 .special_offers_h2 {
